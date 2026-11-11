@@ -24,7 +24,7 @@ import java.util.Scanner;
             }
 
             return m;
-        }                 // 두번째 방법도 swap 사용 가능함 !!!
+        }
 
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
